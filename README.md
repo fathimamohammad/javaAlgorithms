@@ -2,7 +2,7 @@
 
 ##Problem 1:
 
-Done in scala.
+Done in scala.<br />
 File: problem1/File1.scala
 
 
@@ -13,6 +13,6 @@ File:problem2/File2.scala
 
 ## Problem 3,4,6:
   
-  Under folder: problem3_4_5/src/ppc/code
-  problem 4 uses csv file under resources/grid.csv
+  Under folder: [code](https://github.com/fathimamohammad/javaAlgorithms/tree/master/problem3_4_6/src/ppc/code)<br />
+  problem 4 uses csv file under [resources](https://github.com/fathimamohammad/javaAlgorithms/tree/master/problem3_4_6/resources)
 
